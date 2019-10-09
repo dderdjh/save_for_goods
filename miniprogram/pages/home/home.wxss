@@ -1,1 +1,3 @@
-/* pages/home/home.wxss */
+page {
+  background: linear-gradient(to bottom, #6e8b74, #253d24);
+}
